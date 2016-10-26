@@ -1,0 +1,55 @@
+body
+{
+	background-color: #ffff00;
+
+}
+
+img 
+{
+	width: 500px;
+	height: 250px;
+}
+
+h1 
+{
+	color: #f00;
+	font-weight: bold;
+	font-size: 48px;
+	font-family: times new roman,arial;
+	border: 3px solid blue;
+	
+}
+
+p
+{
+	color: #000;
+}	
+
+.judulutama 
+{
+	text-shadow: 3px 3px #000;
+	color: #45FF00;
+	font-weight: bold;
+	font-size: 52px;
+	font-family: arial;
+	text-align: center;
+	border: 5px solid black;
+	border-bottom-style: inset;
+	
+}
+h4
+{
+	font-weight: bold;
+	font-size: 20px;
+	font-family: arial;
+}
+
+.Merah 
+{
+	color: #F00;
+}
+
+.Biru 
+{
+	color: #0012AA;
+}
