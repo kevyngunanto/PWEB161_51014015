@@ -1,0 +1,6 @@
++10 untuk tugas selesai (sudah sync ke githubper tanggal 2/11/16 23:59pm)
++25 untuk setiap selector yang lebi dari 5
++12 untuk setiap .class ke-5 ssampai .class ke-10
+-4 untuk setiap .class yang lebi dr 10
+
+total = 43
