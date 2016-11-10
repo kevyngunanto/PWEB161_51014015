@@ -1,0 +1,7 @@
+10/11/2016
+
+Theme : freelancer (http: //startbootstrap.com/template-overviews/freelancer/
+
++10 untuk tugas yang dikumpulkan sebelum tanggal 9-11-2016 23:59:59
++8 untuk setiap selector theme css yang di override
++3 untuk setiap class yang dibuat sendiri (nama baru,bukan override)
